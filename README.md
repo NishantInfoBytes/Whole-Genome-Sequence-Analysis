@@ -5,6 +5,7 @@ This README file provides an overview of the Whole Genome Sequencing (WGS) analy
 
 
 ### Table of Contents
-[*Called Germline Variant Using Haplotype Caller*](https://github.com/shekharnishant/Whole-Genome-Sequence-Analysis/blob/main/wgs-analysis.ipynb)
+[*Used Haplotype Caller To Call Germline Variants*](https://github.com/shekharnishant/Whole-Genome-Sequence-Analysis/blob/main/wgs-analysis.ipynb)
 
 
+ 
