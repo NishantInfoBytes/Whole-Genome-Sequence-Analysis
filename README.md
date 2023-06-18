@@ -6,5 +6,5 @@ This README file provides an overview of the Whole Genome Sequencing (WGS) analy
 
 ### Table of Contents
 [*Called Germline Variant Using Haplotype Caller*](https://github.com/shekharnishant/Whole-Genome-Sequence-Analysis/blob/main/wgs-analysis.ipynb)
-### 1. FastQc <- MultiQc <- Trimmomatic <- BWA <- Samtools <- MarkDuplicates(GATK) <- BQSR(GATK) < Variant_Calling(GATK- HaploTypeCaller)
+
 
